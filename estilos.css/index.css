@@ -198,13 +198,13 @@ y esto se logra con media query, aqui esta el ejemplo
   display: flex; /*coloca el texto al lado del icono*/
   align-items: flex-end; /*lo alinea hacia abajo del logo, en la parte inferior al lado*/
 }
-/*scroll*/
+/*scroll
 .servicios,
 .navegacion-principal,
 .formulario{
   scroll-snap-align: center;/*por mas que quieras bajar lo va a tratar de detener el scroll*/
-  scroll-snap-stop: always; 
-}
+ /* scroll-snap-stop: always; */
+
 
 /*para la clase o apartado de servicios*/
 /*usamos media querie para cuando sea mas pequeña la pantalla
