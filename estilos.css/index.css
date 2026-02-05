@@ -45,6 +45,7 @@ body {
     margin-left: auto; /*margen izquierdo*/
   margin: 0 auto 0 auto; /* estan los 4 margenes en orden, asi tambien se puede colocar de forma reducida*/
 }
+
 .boton {
   background-color: var(--secundario);
   color: var(--blanco);
